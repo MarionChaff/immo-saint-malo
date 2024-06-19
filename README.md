@@ -12,3 +12,5 @@ Predict flat & house prices in St Servan St Malo:
 - transactions before 2022-01-01
 - Other types than houses and flats
 - Outliers (very large grounds or surface)
+
+!!! small dataset -> volatility 
